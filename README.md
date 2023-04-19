@@ -8,4 +8,13 @@
 #### By finding these countries we can also see the methods they used to improve and update our collective response to whatever pandemic may arise in the future. 
 
 ## Project Objectives 
-#### 
+#### analysis data
+#### perform data cleaning and preparation
+#### create visualization graphs
+
+## Contributors
+#### Hajar El Moctar
+#### Naama Amer
+#### Reem Hyder
+#### Hessa Almohannadi
+
