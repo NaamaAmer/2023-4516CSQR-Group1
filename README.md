@@ -13,11 +13,11 @@
 #### create visualization graphs
 
 ## How to run the code
-#### To run the code use thsi link: 2023_4516CSQR_Group1.ipynb 
+#### To run the code use this link: 2023_4516CSQR_Group1.ipynb 
 
 ## Contributors
 #### Hajar El Moctar
 #### Naama Amer
-#### Reem Hyder
+#### Reem Al Salihi
 #### Hessa Almohannadi
 
